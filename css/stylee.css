@@ -1,0 +1,145 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFFEEC;
+    font-family:'Courier New', Courier, monospace; 
+    color: rgb(36, 0, 120);
+}
+
+ img.small-images {
+    width: 200px;
+}
+
+img.medium-images {
+    width: 300px;
+}
+
+img.large-images {
+    width: 400px;
+}
+
+h1 { 
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+p {
+    width: 300px;
+    text-align: justify;
+    line-height: 20px;
+    margin: auto;
+}
+
+nav {
+    width: 100%;
+    background-color: #FFB985;
+    height: 60px;
+    position: fixed
+}
+
+nav img {
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    border: 5px solid rgb(255, 210, 144);
+    border-radius: 10em;
+    padding: 10px 5px 10px 5px;
+    background-color: #BDB4FF;
+    width: 100px;
+    list-style-type: none;;
+    transition-property: background-color;
+    transition-duration: 2s;
+    margin: auto;
+    margin-top: 80px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+article img {
+    margin: auto;
+    width: 350px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+    
+.contactimage {
+    width: 250px;
+    align-items: center;
+    margin-bottom: 30px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 50px;
+} 
+
+.producten-overzicht {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.producten {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.blok {
+    width: 250px;
+    height: 250px;
+    background-color: #EDB5F7;
+    border: 15px solid #EAFC88;
+    border-radius: 15px;
+}
+
+.blok-inhoud {
+    width: 200px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.blok-inhoud img {
+    width: 200px;
+}
+
+.blok-tekst p { 
+    display: flex;
+    align-items: center;
+}
+
+
+footer {
+    background-color: #EDB5F7;
+    height: 50px;
+}
+
+footer p{
+    color: #FFFEEC;
+    text-align: center;
+}
+
+.footer-home {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

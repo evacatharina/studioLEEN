@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600.83 385.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #e8eb8b;
+      }
+
+      .cls-2 {
+        font-family: Menlo-Regular, Menlo;
+        font-size: 168.82px;
+        stroke-width: 8px;
+      }
+
+      .cls-2, .cls-4, .cls-3 {
+        fill: #e8eb8b;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        font-family: Altivo-Thin, Altivo;
+        font-size: 94.55px;
+        font-weight: 200;
+      }
+    </style>
+  </defs>
+  <path class="cls-4" d="M413.97,33.93c-5.13,15.03,4.46,42.74,17.05,46.93,16.49,5.49,34.17-30.77,30.3-46.34-2.81-11.33-17.24-12.54-21.59-12.91-4.71-.39-20.95-1.76-25.76,12.32Z"/>
+  <path class="cls-4" d="M464.52,117.18c5.41-15.43-8.78-42.5-25.04-45.78-21.31-4.3-41.06,33.29-35.03,48.61,4.39,11.15,22.77,11.32,28.31,11.37,6,.06,26.69.25,31.75-14.2Z"/>
+  <polyline class="cls-4" points="432.71 93.49 432.71 187.5 436.34 187.5 435.75 94.07"/>
+  <polyline class="cls-4" points="432.64 8.7 432.64 16 430.93 20.02 430.93 22.39 441.99 22.39 441.99 20.02 439.39 15.55 439.23 8.7"/>
+  <ellipse class="cls-4" cx="435.86" cy="16.6" rx="7.78" ry="1.5"/>
+  <ellipse class="cls-4" cx="434.25" cy="151.31" rx="5.26" ry="1.5"/>
+  <ellipse class="cls-4" cx="434.25" cy="145.06" rx="5.26" ry="1.5"/>
+  <ellipse class="cls-4" cx="434.53" cy="173.61" rx="8.9" ry="5.94"/>
+  <polyline class="cls-1" points="428.54 171.52 417.34 177.44 417.34 186.8"/>
+  <polyline class="cls-1" points="434.79 170.5 451.7 176.48 451.7 185.92"/>
+  <ellipse class="cls-4" cx="434.53" cy="167.67" rx="5.26" ry="1.5"/>
+  <ellipse class="cls-4" cx="435.86" cy="5.9" rx="6.11" ry="5.9"/>
+  <text class="cls-2" transform="translate(4 165.41) scale(.97 1)"><tspan x="0" y="0">STUD </tspan></text>
+  <text/>
+  <text class="cls-3" transform="translate(171.29 237.27) scale(1.1 1)"><tspan x="0" y="0">leen</tspan></text>
+  <text class="cls-2" transform="translate(472.8 154.9) scale(.97 1)"><tspan x="0" y="0">O</tspan></text>
+</svg>

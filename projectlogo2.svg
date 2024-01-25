@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 575.62 264.12">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #bbb3d8;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Menlo-Regular, Menlo;
+        font-size: 168.82px;
+      }
+
+      .cls-2 {
+        font-family: Altivo-Thin, Altivo;
+        font-size: 94.55px;
+        font-weight: 200;
+      }
+
+      .cls-3 {
+        stroke-width: 8px;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #bbb3d8;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        fill: #bcb3d9;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1-2">
+      <path class="cls-7" d="M415.3,33.93c-5.13,15.03,4.46,42.74,17.05,46.93,16.49,5.49,34.17-30.77,30.3-46.34-2.81-11.33-17.24-12.54-21.59-12.91-4.71-.39-20.95-1.76-25.76,12.32h0Z"/>
+      <path class="cls-7" d="M465.86,117.18c5.41-15.43-8.78-42.5-25.04-45.78-21.31-4.3-41.06,33.29-35.03,48.61,4.39,11.15,22.77,11.32,28.31,11.37,6,.06,26.69.25,31.75-14.2h.01Z"/>
+      <polyline class="cls-7" points="434.05 93.49 434.05 187.5 437.67 187.5 437.08 94.07"/>
+      <polyline class="cls-7" points="433.97 8.7 433.97 16 432.26 20.02 432.26 22.39 443.32 22.39 443.32 20.02 440.72 15.55 440.56 8.7"/>
+      <ellipse class="cls-7" cx="437.19" cy="16.6" rx="7.78" ry="1.5"/>
+      <ellipse class="cls-7" cx="435.58" cy="151.31" rx="5.26" ry="1.5"/>
+      <ellipse class="cls-7" cx="435.58" cy="145.06" rx="5.26" ry="1.5"/>
+      <ellipse class="cls-7" cx="435.86" cy="173.61" rx="8.9" ry="5.94"/>
+      <polyline class="cls-5" points="429.88 171.52 418.67 177.44 418.67 186.8"/>
+      <polyline class="cls-5" points="441.12 172.4 453.04 177.64 453.04 185.92"/>
+      <ellipse class="cls-7" cx="435.86" cy="167.67" rx="5.26" ry="1.5"/>
+      <ellipse class="cls-7" cx="437.19" cy="5.9" rx="6.11" ry="5.9"/>
+      <g class="cls-4">
+        <text class="cls-1" transform="translate(4 172.98) scale(.97 1)"><tspan x="0" y="0">STUD</tspan></text>
+        <text class="cls-3" transform="translate(4 172.98) scale(.97 1)"><tspan x="0" y="0">STUD</tspan></text>
+      </g>
+      <g class="cls-4">
+        <text class="cls-2" transform="translate(172.62 237.27) scale(1.1 1)"><tspan x="0" y="0">leen</tspan></text>
+        <g class="cls-4">
+          <path class="cls-6" d="M184.06,165.42h1.87v71.85h-1.87v-71.85Z"/>
+          <path class="cls-6" d="M203.09,214.86c0-16.17,8.84-25.24,22.88-25.24,12.9,0,19.14,7,19.14,16.07,0,2.08-.31,4.92-.52,6.52h-39.52c-1.04,14.37,6.14,24.3,21.11,24.3,8.63,0,14.77-2.65,17.68-4.92l.62,1.8c-3.12,2.17-9.57,4.82-18.3,4.82-13.94,0-23.09-8.13-23.09-23.35ZM205.17,210.51h37.75c.21-1.32.31-3.21.31-4.82,0-8.13-5.62-14.37-17.26-14.37s-19.34,6.9-20.8,19.19Z"/>
+          <path class="cls-6" d="M256.55,214.86c0-16.17,8.84-25.24,22.88-25.24,12.9,0,19.14,7,19.14,16.07,0,2.08-.31,4.92-.52,6.52h-39.52c-1.04,14.37,6.14,24.3,21.11,24.3,8.63,0,14.77-2.65,17.68-4.92l.62,1.8c-3.12,2.17-9.57,4.82-18.3,4.82-13.94,0-23.09-8.13-23.09-23.35ZM258.63,210.51h37.75c.21-1.32.31-3.21.31-4.82,0-8.13-5.62-14.37-17.26-14.37s-19.34,6.9-20.8,19.19Z"/>
+          <path class="cls-6" d="M317.6,237.27h-1.87v-46.7h1.66l.21,10.78h.1c4.26-7.94,13.31-11.72,22.57-11.72,14.04,0,20.38,7.28,20.38,16.07v31.58h-1.87v-31.58c0-7.85-5.72-14.37-18.51-14.37-9.67,0-18.51,4.06-22.67,13.52v32.43Z"/>
+        </g>
+      </g>
+      <g class="cls-4">
+        <text class="cls-1" transform="translate(473.03 171.52) scale(.97 1)"><tspan x="0" y="0">O</tspan></text>
+        <text class="cls-3" transform="translate(473.03 171.52) scale(.97 1)"><tspan x="0" y="0">O</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
